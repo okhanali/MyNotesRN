@@ -8,7 +8,7 @@
 
 Aşağıdaki videoda uygulamanın temel akışını, not ekleme, düzenleme ve silme süreçlerini görebilirsiniz:
 
-![Uygulama Demosu](src/assets/demo.mov)
+![Uygulama Demosu](src/assets/demo.mp4)
 
 ---
 
