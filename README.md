@@ -9,7 +9,7 @@
 Aşağıdaki videoda uygulamanın temel akışını, not ekleme, düzenleme ve silme süreçlerini görebilirsiniz:
 
 <div align="center">
-  <video src="src/assets/demo.mov" width="350" muted autoplay loop controls></video>
+  <video src="https://github.com/okhanali/MyNotesRN/raw/main/src/assets/demo.mov" width="350" controls muted autoplay loop></video>
 </div>
 
 > **Not:** Eğer video yukarıda görünmüyorsa, tarayıcınızın uyumluluğu için `assets/` klasöründeki dosyayı doğrudan inceleyebilirsiniz.
