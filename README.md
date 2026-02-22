@@ -8,7 +8,9 @@
 
 Aşağıdaki videoda uygulamanın temel akışını, not ekleme, düzenleme ve silme süreçlerini görebilirsiniz:
 
-![Uygulama Demosu](src/assets/demo.mp4)
+<div align="center">
+  <video src="src/assets/demo.mp4" width="350" controls muted autoplay loop></video>
+</div>
 
 ---
 
